@@ -1,5 +1,5 @@
 Summary:	Desktop Background Images
-Summary(pl):	Miodne brazki na t³o pulpitu
+Summary(pl):	Miodne obrazki na t³o pulpitu
 Name:		desktop-wallpapers-bc
 Version:	1.0
 Release:	1
