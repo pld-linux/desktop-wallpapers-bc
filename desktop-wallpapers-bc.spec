@@ -20,7 +20,6 @@ Desktop Background Images designed by Marcin Biernat.
 Miodne obrazki na to pulpitu zaprojektowane przez Marcina Biernata.
 
 %prep
-%setup -q -c %{name}-%{version} -T -D
 
 %install
 rm -rf $RPM_BUILD_ROOT
