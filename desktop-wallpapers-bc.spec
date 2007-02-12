@@ -1,5 +1,5 @@
 Summary:	Desktop Background Images
-Summary(pl.UTF-8):   Miodne obrazki na tło pulpitu
+Summary(pl.UTF-8):	Miodne obrazki na tło pulpitu
 Name:		desktop-wallpapers-bc
 Version:	1.0
 Release:	2
