@@ -1,5 +1,5 @@
 Summary:	Desktop Background Images
-Summary(pl):	Miodne obrazki na t≥o pulpitu
+Summary(pl.UTF-8):   Miodne obrazki na t≈Ço pulpitu
 Name:		desktop-wallpapers-bc
 Version:	1.0
 Release:	2
@@ -18,8 +18,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Desktop Background Images designed by Marcin Biernat.
 
-%description -l pl
-Miodne obrazki na t≥o pulpitu zaprojektowane przez Marcina Biernata.
+%description -l pl.UTF-8
+Miodne obrazki na t≈Ço pulpitu zaprojektowane przez Marcina Biernata.
 
 %prep
 
